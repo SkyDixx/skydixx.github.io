@@ -1,0 +1,9 @@
+{
+	"Version":"2",
+	"Host":"https://skydixx.github.io/",
+	"Files":
+	[
+		"Handong-Dreamcatcher.mp4",
+	],
+	"PatchRequiredUrl":"https://skydixx.github.io/patch_info.json"
+}
